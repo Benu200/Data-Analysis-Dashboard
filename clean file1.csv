@@ -1,0 +1,81 @@
+﻿Transaction ID,Date,Name,Product, Categories,Price Per Unit,Total Sales,Ratings,City,Payment Method
+TXN-1001,29-09-2024,Margaret Robinson,Laptop, Electronics,31753,31753,3,Amberberg,UPI
+TXN-1002,21-11-2024,AnnKramer,Laptop, Electronics,32859,131436,5,North Cory,UPI
+TXN-1003,18-10-2024,AlexanderYoung,Headphones, Electronics,43765,175060,2,Carolborough,Debit Card
+TXN-1004,08-07-2024,AaronFrank,Smartwatch, Electronics,29571,59142,2,West Sophia,Credit Card
+TXN-1005,06-08-2024,BrianGrant,Headphones, Accessories,19048,38096,3,Parkborough,UPI
+TXN-1006,13-05-2024,MaryBriggs,Smartwatch, Electronics,10863,32589,1,Weaverberg,UPI
+TXN-1008,02-11-2024,DanielleMoore,Smartphone, Electronics,15436,77180,4,Port Tiffany,Credit Card
+TXN-1009,02-04-2024,ThomasStein,Tablet, Electronics,5658,5658,4,Frankville,Debit Card
+TXN-1010,01-02-2025,AaronLowe,Laptop, Accessories,47796,143388,5,South Jacob,UPI
+TXN-1011,11-01-2025,RichardRamirez,Smartphone, Electronics,49935,149805,5,New Nicholasport,Credit Card
+TXN-1012,14-03-2025,MichaelLester,Smartphone, Accessories,29955,149775,4,Taylorbury,Credit Card
+TXN-1013,11-02-2025,AmberGilbert,Smartwatch, Accessories,34794,69588,5,West Tracyville,UPI
+TXN-1014,06-08-2024,ValerieHendrix,Laptop, Electronics,48221,192884,2,Port Julia,Debit Card
+TXN-1015,04-12-2024,MatthewSosa,Headphones, Electronics,21463,107315,1,Lake Anthony,Credit Card
+TXN-1017,27-06-2024,CarolineThornton,Laptop, Electronics,42251,211255,1,Port Amanda,UPI
+TXN-1018,31-07-2024,SaraAnderson,Smartwatch, Accessories,28322,56644,5,Lopezburgh,UPI
+TXN-1019,17-01-2025,AdamBell,Tablet, Accessories,37610,150440,2,South Adam,Debit Card
+TXN-1020,12-04-2024,CharlesGarcia,Smartphone, Electronics,25494,76482,3,Richardsonshire,UPI
+TXN-1021,02-08-2024,DouglasBrown,Laptop, Electronics,30723,92169,4,East Davidshire,UPI
+TXN-1022,05-11-2024,MelissaPadilla,Headphones, Accessories,48105,192420,1,Wellston,Debit Card
+TXN-1024,24-08-2024,MichaelMiller,Headphones, Accessories,21482,107410,3,West Johnland,Credit Card
+TXN-1025,08-10-2024,EricSalazar,Smartphone, Accessories,6288,12576,5,Markbury,Debit Card
+TXN-1027,28-03-2024,RobertChristian,Tablet, Electronics,30289,151445,3,Amberstad,Debit Card
+TXN-1028,31-03-2024,JohnMccullough,Smartwatch, Electronics,27553,27553,5,Coryville,Credit Card
+TXN-1030,04-10-2024,DavidJenkins,Headphones, Electronics,7709,38545,5,New Mark,Credit Card
+TXN-1031,19-08-2024,PatrickRussell,Laptop, Electronics,20832,41664,4,New Stephanieview,Credit Card
+TXN-1032,22-07-2024,KarenJackson,Laptop, Accessories,28873,28873,4,Thomasborough,UPI
+TXN-1033,12-04-2024,WilliamWalker,Smartphone, Accessories,27664,27664,4,New Haileybury,Debit Card
+TXN-1034,03-09-2024,MarieDougherty,Laptop, Accessories,31211,156055,5,North Stephaniestad,Credit Card
+TXN-1035,03-11-2024,JonathanConrad,Smartwatch, Accessories,30680,30680,5,Port Sethmouth,Debit Card
+TXN-1036,16-04-2024,NatalieReed,Smartwatch, Accessories,13489,13489,3,North Anthonybury,Debit Card
+TXN-1038,11-05-2024,JeffreyWalton,Tablet, Electronics,47488,237440,5,Bryanland,UPI
+TXN-1039,23-03-2024,ShelleyRivers,Laptop, Electronics,28497,142485,5,Lake Brian,UPI
+TXN-1041,16-02-2025,MiaEaton,Smartwatch, Accessories,17037,51111,5,Nathanland,UPI
+TXN-1042,24-11-2024,StephanieYoder,Smartphone, Accessories,22041,22041,5,Anthonyhaven,Credit Card
+TXN-1043,07-11-2024,DavidRamsey,Smartphone, Accessories,44743,223715,2,Port Brookeborough,UPI
+TXN-1044,14-04-2024,PatrickBishop,Headphones, Electronics,42657,170628,5,South Elizabethside,Debit Card
+TXN-1045,10-06-2024,MatthewMaynard,Laptop, Accessories,19111,38222,2,East Thomas,Debit Card
+TXN-1048,24-01-2025,MrsPotter,Laptop, Accessories,39615,79230,5,Port Cory,UPI
+TXN-1049,23-09-2024,PhilipCline,Headphones, Electronics,25176,100704,3,Alexandershire,Debit Card
+TXN-1050,30-12-2024,LindaBarton,Smartwatch, Electronics,27031,27031,5,South Rachelton,Debit Card
+TXN-1051,12-05-2024,RachelMcpherson,Smartphone, Electronics,21029,105145,4,New Vanessa,Debit Card
+TXN-1052,25-06-2024,SydneyHaney,Smartphone, Electronics,27706,110824,5,Kyleberg,Debit Card
+TXN-1053,12-04-2024,RebeccaWise,Smartphone, Electronics,10728,32184,5,Baileyfort,UPI
+TXN-1054,28-11-2024,BrianBarnett,Tablet, Accessories,26980,80940,5,Angelaport,UPI
+TXN-1055,20-08-2024,KevinMorris,Laptop, Electronics,20633,103165,3,West Rachaelburgh,Debit Card
+TXN-1057,21-10-2024,LisaAguilar,Headphones, Accessories,27721,83163,2,Eduardomouth,Credit Card
+TXN-1059,06-11-2024,DanielBanks,Smartwatch, Electronics,32971,98913,2,Lake Kathytown,Debit Card
+TXN-1061,06-05-2024,AbigailRodriguez,Tablet, Electronics,19681,59043,2,New Christineport,Debit Card
+TXN-1062,17-09-2024,MariaFigueroa,Headphones, Accessories,22055,22055,5,Allisonhaven,Credit Card
+TXN-1065,12-09-2024,MichelleHayes,Smartwatch, Electronics,25475,127375,4,North Stephanieland,UPI
+TXN-1066,19-03-2024,AmandaSmith,Headphones, Electronics,23700,47400,1,New Meganfort,Credit Card
+TXN-1067,22-03-2024,WilliamTaylor,Smartwatch, Electronics,27893,83679,5,Martinezland,Debit Card
+TXN-1070,10-04-2024,JohnBates,Smartwatch, Accessories,10701,53505,1,Powellport,Credit Card
+TXN-1071,05-10-2024,ShawnGuzman,Smartphone, Accessories,23417,117085,4,Smithside,Credit Card
+TXN-1072,19-05-2024,ThomasContreras,Laptop, Accessories,28666,85998,5,North Brentbury,Credit Card
+TXN-1073,24-09-2024,RickLopez,Headphones, Electronics,38939,155756,5,Rossburgh,Debit Card
+TXN-1074,28-02-2025,TaylorBartlett,Smartphone, Electronics,6527,13054,5,Port Dustin,UPI
+TXN-1076,26-02-2025,NicholasAvery,Laptop, Electronics,45231,90462,2,Johnsonberg,UPI
+TXN-1077,23-04-2024,RobertGiles,Smartwatch, Electronics,20451,81804,3,Goodmanview,Credit Card
+TXN-1078,08-05-2024,FrankHarris,Laptop, Electronics,12503,62515,2,Christineberg,UPI
+TXN-1079,05-03-2025,ShannonMD,Tablet, Electronics,28922,57844,5,Port Rodneyville,Credit Card
+TXN-1080,02-02-2025,ChristopherHunter,Smartwatch, Accessories,11309,11309,5,South Judy,UPI
+TXN-1081,24-02-2025,JenniferMartinez,Smartwatch, Electronics,22860,22860,5,North Betty,Debit Card
+TXN-1082,22-01-2025,AmandaWatson,Smartwatch, Electronics,41202,82404,5,Garretttown,Credit Card
+TXN-1083,01-05-2024,LatashaHoover,Smartphone, Accessories,32675,65350,2,North Linda,Debit Card
+TXN-1084,06-07-2024,LindaRice,Tablet, Electronics,35934,179670,5,Millerfurt,Credit Card
+TXN-1085,16-01-2025,PaulGreen,Headphones, Accessories,40024,40024,5,Adamsbury,Debit Card
+TXN-1086,27-03-2024,DanielGrant,Headphones, Electronics,41137,164548,3,Port Julie,UPI
+TXN-1087,13-05-2024,HeatherPeterson,Smartphone, Accessories,28303,56606,5,North Elizabeth,UPI
+TXN-1088,20-04-2024,AmberContreras,Headphones, Electronics,31681,95043,5,Robinsonmouth,Credit Card
+TXN-1089,09-02-2025,JamesWalton,Tablet, Accessories,14080,28160,5,Ambertown,UPI
+TXN-1090,04-01-2025,LuisBrown,Headphones, Electronics,7703,7703,3,New Alexis,Credit Card
+TXN-1091,10-04-2024,DustinBuck,Tablet, Electronics,48514,242570,4,North Wandaside,Debit Card
+TXN-1093,02-07-2024,JonRowe,Headphones, Accessories,19814,39628,5,Jackmouth,UPI
+TXN-1094,05-11-2024,SherriLi,Tablet, Accessories,30145,120580,5,North Erinchester,UPI
+TXN-1095,16-06-2024,PaulMoore,Smartphone, Electronics,22172,22172,5,Lake Bradley,UPI
+TXN-1096,06-05-2024,JosephYoung,Laptop, Electronics,9601,28803,1,Patrickbury,Credit Card
+TXN-1098,27-08-2024,JoshuaFox,Laptop, Accessories,14540,43620,5,New Andrew,UPI
+TXN-1099,20-04-2024,DennisMann,Tablet, Electronics,37261,149044,5,Hunterbury,Debit Card
