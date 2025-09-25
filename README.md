@@ -8,4 +8,4 @@ This Sales Analysis Report provides a comprehensive view of sales performance ac
 •	Max Price per Unit: 48,514
 •	Average Sales per Transaction: 149K
 •	Average Customer Rating: 4.0
-## Dashboard Link: 
+## Dashboard Link: https://github.com/Benu200/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-22%20180413.png
