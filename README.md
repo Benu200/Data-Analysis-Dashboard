@@ -33,3 +33,8 @@ Check for missing, extra, or irrelevant columns.
 **Load to Data Model (Home Tab)**
 13. Click Close & Apply to load cleaned data.
 Dataset becomes analysis-ready for dashboards and reports.
+
+**Conclusion**
+The Sales Analysis Report highlights laptops as the top-selling product, while UPI and debit cards dominate payment methods. December shows peak sales due to holiday demand. A small group of loyal customers and high-performing cities drive major revenue, enabling data-driven growth strategies.
+
+
