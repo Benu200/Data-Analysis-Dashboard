@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-The Sales Analysis Report highlights laptops as the top-selling product, while UPI and debit cards dominate payment methods. December shows peak sales due to holiday demand. A small group of loyal customers and high-performing cities drive major revenue, enabling data-driven growth strategies.
+# Sales Analysis Report
+This Sales Analysis Report provides a comprehensive view of sales performance across products, customers, payment methods, cities, and time periods. The dashboard highlights key business insights through KPIs, charts, and tables, enabling effective data-driven decisions.
